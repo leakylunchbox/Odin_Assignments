@@ -1,2 +1,2 @@
 # Odin_Assignments
-Assignments for the Odin Project 
+Assignments for The Odin Project 
